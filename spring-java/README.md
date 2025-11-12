@@ -76,6 +76,15 @@ This guide is specifically designed for Android developers with Kotlin experienc
    - Performance optimization
    - Common pitfalls
 
+10. [Redis, Messaging & Real-Time Features](./10-redis-messaging-realtime.md)
+   - Redis caching and operations
+   - Message queues (RabbitMQ, Kafka)
+   - WebSockets for real-time communication
+   - Email sending
+   - File storage (S3, local)
+   - Background job processing
+   - Full-text search with Elasticsearch
+
 ## 🚀 Getting Started
 
 ### Prerequisites

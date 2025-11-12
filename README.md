@@ -189,6 +189,15 @@ Each section contains:
    - Testing strategies
    - Performance optimization
 
+10. [Redis, Messaging & Real-Time Features](./spring-java/10-redis-messaging-realtime.md)
+   - Redis caching and operations
+   - Message queues (RabbitMQ, Kafka)
+   - WebSockets for real-time communication
+   - Email sending
+   - File storage (S3, local)
+   - Background job processing
+   - Full-text search with Elasticsearch
+
 ### 🚀 Getting Started with Spring
 
 #### Prerequisites
