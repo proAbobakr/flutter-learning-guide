@@ -66,6 +66,13 @@ This guide is specifically designed for Android developers with Kotlin experienc
    - Testing strategies
    - Common pitfalls
 
+10. [Apache Kafka Explained](./10-kafka-explained.md)
+   - What is Kafka and core concepts
+   - Producers, Consumers, Topics, Partitions
+   - Practical examples with Kotlin
+   - Use cases and best practices
+   - Kafka vs other messaging systems
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -94,6 +101,7 @@ We recommend following the sections in order, especially if you're new to Flutte
 **Week 2**: Sections 4-5 (UI components, libraries)
 **Week 3**: Sections 6-7 (Network layer, state management)
 **Week 4**: Sections 8-9 (Navigation, best practices)
+**Bonus**: Section 10 (Apache Kafka - for backend/microservices integration)
 
 ## 📖 How to Use This Guide
 
