@@ -66,6 +66,14 @@ This guide is specifically designed for Android developers with Kotlin experienc
    - Testing strategies
    - Common pitfalls
 
+10. [Architecture Patterns: Microservices vs Monolith](./10-architecture-patterns.md)
+   - Monolithic architecture explained
+   - Microservices architecture from scratch
+   - Detailed comparison and trade-offs
+   - When to use each approach
+   - Impact on Flutter development
+   - Hybrid approaches
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -93,7 +101,7 @@ We recommend following the sections in order, especially if you're new to Flutte
 **Week 1**: Sections 1-3 (Dart basics, project structure, lifecycle)
 **Week 2**: Sections 4-5 (UI components, libraries)
 **Week 3**: Sections 6-7 (Network layer, state management)
-**Week 4**: Sections 8-9 (Navigation, best practices)
+**Week 4**: Sections 8-10 (Navigation, best practices, architecture patterns)
 
 ## 📖 How to Use This Guide
 
