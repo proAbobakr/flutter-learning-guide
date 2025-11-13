@@ -66,6 +66,13 @@ This guide is specifically designed for Android developers with Kotlin experienc
    - Testing strategies
    - Common pitfalls
 
+10. [Deployment Guide](./10-deployment.md)
+   - Manual deployment from scratch
+   - Docker containerization (zero to hero)
+   - Kubernetes orchestration
+   - CI/CD integration
+   - Production best practices
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -94,6 +101,7 @@ We recommend following the sections in order, especially if you're new to Flutte
 **Week 2**: Sections 4-5 (UI components, libraries)
 **Week 3**: Sections 6-7 (Network layer, state management)
 **Week 4**: Sections 8-9 (Navigation, best practices)
+**Week 5**: Section 10 (Deployment with Docker and Kubernetes)
 
 ## 📖 How to Use This Guide
 
